@@ -1,0 +1,3 @@
+os: Linux
+language: cpp
+script: g++ aho_corasick.cpp
