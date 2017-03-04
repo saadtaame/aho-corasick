@@ -1,4 +1,4 @@
-# aho-corasick
+# aho-corasick [![Build Status](https://travis-ci.org/saadtaame/aho-corasick.svg?branch=master)](https://travis-ci.org/saadtaame/aho-corasick)
 A C++ implementation of the AhoCorasick pattern matching algorithm.
 ### How to use ###
 <pre>
